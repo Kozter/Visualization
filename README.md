@@ -17,6 +17,6 @@ Used Countlplot to show: Which gender had a better chance of survival?
 
 Visualizing the survival rate based on being with a family vs being alone?
 
-Made a KDE plot to visualize survial of the passengers sorted by the different classes (first, second and third).
+Made a KDE plot to visualize survival of the passengers sorted by the different classes (first, second and third).
 
-Made a KDE plot to visualize survial of the passengers sorted by age distribution
+Made a KDE plot to visualize survival of the passengers sorted by age distribution
